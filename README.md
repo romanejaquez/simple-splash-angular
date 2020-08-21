@@ -1,6 +1,8 @@
-# SimpleSplashAngular
+# Simple Splash Angular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.0.
+
+Please refer to [Medium Article](https://itnext.io/simple-splash-screen-for-your-angular-web-apps-and-pwas-f4fbf897540b) for more info.
 
 ## Development server
 
